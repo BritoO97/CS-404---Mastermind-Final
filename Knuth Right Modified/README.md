@@ -25,6 +25,7 @@ where numGames are the desired number of games to run (ie: 1000 will run 1000 in
 Output:
 
 There are 3 files created as a result of running the algorithm
+
 results - contains one line for every game 'played'. Lines are in the following format: 
 		solution for that game | number of guesses | time taken in ns
 
